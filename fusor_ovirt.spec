@@ -1,5 +1,5 @@
 Name:           fusor_ovirt
-Version:        1.1.0
+Version:        1.2.0
 Release:        0%{?dist}
 Summary:        Scripts to interact with oVirt API
 
